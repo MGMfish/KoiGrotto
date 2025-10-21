@@ -1,0 +1,58 @@
+{
+    "manifest": {
+        "license": "CEA",
+        "name": "Neon Dreams",
+        "author": "MGMfish",
+        "version": "1.0.0",
+        "updater": ""
+    },
+    "background": {
+        "overlay_alpha": 120,
+        "blur_radius": 2,
+        "url": "https:\/\/raw.githubusercontent.com\/MGMfish\/Neon-Dream\/main\/NeonDreamBlur3.gif"
+    },
+    "fonts": {
+        "*": "https:\/\/raw.githubusercontent.com\/MGMfish\/Neon-Dream\/main\/Oxanium-VariableFont_wght.ttf"
+    },
+    "simple_colors": {
+        "active_channel": -2050555172,
+        "accent": -2063532056,
+        "mention_highlight": 1455882972,
+        "background_secondary": 1175327011,
+        "background": 1127034664,
+        "statusbar": -737476657,
+        "input_background": -2050555172
+    },
+    "colors": {
+        "brand": -16124237,
+        "brand_new_500": -15794432,
+        "primary_dark_400": -1085358452,
+        "primary_dark_360": -1090453521,
+        "uikit_btn_compound_color_selector_dark": -16138073,
+        "primary_dark_300": -16711720,
+        "uikit_btn_compound_color_selector_light": -802609786,
+        "uikit_settings_item_text_color_dark": -637732634,
+        "uikit_settings_item_text_color_light": -1089384867,
+        "abc_tint_switch_track": -1608238988,
+        "link": -2304,
+        "link_500": -16711683,
+        "primary_dark_200": -581369876,
+        "white_500": -639136513,
+        "grey_unread": -2304,
+        "primary_dark_630": 1225530687,
+        "primary_dark_800": 1493502473
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -65536,
+        "ic_sidebar_notifications_off_dark_24dp": -16711907,
+        "ic_sidebar_pins_off_dark_24dp": -65536,
+        "ic_sidebar_pins_on_dark_24dp": -65472,
+        "ic_thread": -1090584576,
+        "drawable_overlay_channels_selected_dark": -1886453559,
+        "drawable_overlay_channels_dark": -1985437696,
+        "ic_status_dnd_16dp": -3053115,
+        "ic_status_online_16dp": -12192435,
+        "ic_status_idle_16dp": -1843952
+    },
+    "raws": {}
+}
